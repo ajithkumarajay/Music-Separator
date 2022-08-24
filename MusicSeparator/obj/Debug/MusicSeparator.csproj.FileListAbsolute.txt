@@ -1,0 +1,18 @@
+E:\Ajithkumar - Mini Project\Music Separator\MusicSeparator\obj\Debug\MusicSeparator.csproj.AssemblyReference.cache
+E:\Ajithkumar - Mini Project\Music Separator\MusicSeparator\obj\Debug\MusicSeparator.csproj.SuggestedBindingRedirects.cache
+E:\Ajithkumar - Mini Project\Music Separator\MusicSeparator\obj\Debug\SpleeterGui.Form1.resources
+E:\Ajithkumar - Mini Project\Music Separator\MusicSeparator\obj\Debug\SpleeterGui.Properties.Resources.resources
+E:\Ajithkumar - Mini Project\Music Separator\MusicSeparator\obj\Debug\MusicSeparator.csproj.GenerateResource.cache
+E:\Ajithkumar - Mini Project\Music Separator\MusicSeparator\obj\Debug\MusicSeparator.csproj.CoreCompileInputs.cache
+E:\Ajithkumar - Mini Project\Music Separator\MusicSeparator\obj\Debug\SpleeterGui.exe
+E:\Ajithkumar - Mini Project\Music Separator\MusicSeparator\obj\Debug\SpleeterGui.pdb
+C:\Users\ajith\Downloads\Music Separator - Mini Project\Music Separator\MusicSeparator\bin\Debug\SpleeterGui.exe.config
+C:\Users\ajith\Downloads\Music Separator - Mini Project\Music Separator\MusicSeparator\bin\Debug\SpleeterGui.exe
+C:\Users\ajith\Downloads\Music Separator - Mini Project\Music Separator\MusicSeparator\bin\Debug\SpleeterGui.pdb
+C:\Users\ajith\Downloads\Music Separator - Mini Project\Music Separator\MusicSeparator\obj\Debug\MusicSeparator.csproj.AssemblyReference.cache
+C:\Users\ajith\Downloads\Music Separator - Mini Project\Music Separator\MusicSeparator\obj\Debug\SpleeterGui.Form1.resources
+C:\Users\ajith\Downloads\Music Separator - Mini Project\Music Separator\MusicSeparator\obj\Debug\SpleeterGui.Properties.Resources.resources
+C:\Users\ajith\Downloads\Music Separator - Mini Project\Music Separator\MusicSeparator\obj\Debug\MusicSeparator.csproj.GenerateResource.cache
+C:\Users\ajith\Downloads\Music Separator - Mini Project\Music Separator\MusicSeparator\obj\Debug\MusicSeparator.csproj.CoreCompileInputs.cache
+C:\Users\ajith\Downloads\Music Separator - Mini Project\Music Separator\MusicSeparator\obj\Debug\SpleeterGui.exe
+C:\Users\ajith\Downloads\Music Separator - Mini Project\Music Separator\MusicSeparator\obj\Debug\SpleeterGui.pdb

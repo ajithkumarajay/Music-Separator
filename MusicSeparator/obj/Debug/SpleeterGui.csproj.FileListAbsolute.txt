@@ -1,0 +1,76 @@
+C:\Users\chris\source\repos\SpleeterGui\SpleeterGui\bin\Debug\SpleeterGui.exe.config
+C:\Users\chris\source\repos\SpleeterGui\SpleeterGui\bin\Debug\SpleeterGui.exe
+C:\Users\chris\source\repos\SpleeterGui\SpleeterGui\bin\Debug\SpleeterGui.pdb
+C:\Users\chris\source\repos\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.Form1.resources
+C:\Users\chris\source\repos\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.Properties.Resources.resources
+C:\Users\chris\source\repos\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.exe
+C:\Users\chris\source\repos\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.pdb
+C:\Users\chris\source\repos\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.Form2.resources
+C:\Users\chris\source\repos\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\SpleeterGui\SpleeterGui\bin\Debug\SpleeterGui.exe.config
+C:\Users\chris\Documents\GitHub\SpleeterGui\SpleeterGui\bin\Debug\SpleeterGui.exe
+C:\Users\chris\Documents\GitHub\SpleeterGui\SpleeterGui\bin\Debug\SpleeterGui.pdb
+C:\Users\chris\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.Form1.resources
+C:\Users\chris\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.Properties.Resources.resources
+C:\Users\chris\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csproj.GenerateResource.cache
+C:\Users\chris\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.exe
+C:\Users\chris\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.pdb
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\bin\Debug\SpleeterGui.exe.config
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\bin\Debug\SpleeterGui.exe
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\bin\Debug\SpleeterGui.pdb
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\bin\Debug\ConsoleControlAPI.dll
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\bin\Debug\ConsoleControlAPI.xml
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csprojAssemblyReference.cache
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.Form1.resources
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.Properties.Resources.resources
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csproj.GenerateResource.cache
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csproj.CoreCompileInputs.cache
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csproj.CopyComplete
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.exe
+C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.pdb
+C:\Users\chris\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csprojAssemblyReference.cache
+C:\Users\ajith\Downloads\project\1\SpleeterGui-master\SpleeterGui\bin\Debug\SpleeterGui.exe.config
+C:\Users\ajith\Downloads\project\1\SpleeterGui-master\SpleeterGui\bin\Debug\SpleeterGui.exe
+C:\Users\ajith\Downloads\project\1\SpleeterGui-master\SpleeterGui\bin\Debug\SpleeterGui.pdb
+C:\Users\ajith\Downloads\project\1\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.Form1.resources
+C:\Users\ajith\Downloads\project\1\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.Properties.Resources.resources
+C:\Users\ajith\Downloads\project\1\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.csproj.GenerateResource.cache
+C:\Users\ajith\Downloads\project\1\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.csproj.CoreCompileInputs.cache
+C:\Users\ajith\Downloads\project\1\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.exe
+C:\Users\ajith\Downloads\project\1\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.pdb
+C:\Users\ajith\Downloads\project\1\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.csproj.AssemblyReference.cache
+C:\Users\ajith\Downloads\project\1 - working project\SpleeterGui-master\SpleeterGui\bin\Debug\SpleeterGui.exe.config
+C:\Users\ajith\Downloads\project\1 - working project\SpleeterGui-master\SpleeterGui\bin\Debug\SpleeterGui.exe
+C:\Users\ajith\Downloads\project\1 - working project\SpleeterGui-master\SpleeterGui\bin\Debug\SpleeterGui.pdb
+C:\Users\ajith\Downloads\project\1 - working project\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.csproj.AssemblyReference.cache
+C:\Users\ajith\Downloads\project\1 - working project\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.Form1.resources
+C:\Users\ajith\Downloads\project\1 - working project\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.Properties.Resources.resources
+C:\Users\ajith\Downloads\project\1 - working project\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.csproj.GenerateResource.cache
+C:\Users\ajith\Downloads\project\1 - working project\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.csproj.CoreCompileInputs.cache
+C:\Users\ajith\Downloads\project\1 - working project\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.exe
+C:\Users\ajith\Downloads\project\1 - working project\SpleeterGui-master\SpleeterGui\obj\Debug\SpleeterGui.pdb
+C:\Users\Adhithya Balaji\Documents\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.csproj.AssemblyReference.cache
+C:\Users\Adhithya Balaji\Documents\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adhithya Balaji\Documents\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.exe
+C:\Users\Adhithya Balaji\Documents\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.pdb
+C:\Users\Adhithya Balaji\Documents\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\bin\Debug\SpleeterGui.exe.config
+C:\Users\Adhithya Balaji\Documents\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\bin\Debug\SpleeterGui.exe
+C:\Users\Adhithya Balaji\Documents\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\bin\Debug\SpleeterGui.pdb
+C:\Users\Adhithya Balaji\Documents\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.Form1.resources
+C:\Users\Adhithya Balaji\Documents\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.Properties.Resources.resources
+C:\Users\Adhithya Balaji\Documents\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.csproj.GenerateResource.cache
+C:\Users\Adhithya Balaji\Documents\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.csproj.CoreCompileInputs.cache
+E:\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\bin\Debug\SpleeterGui.exe.config
+E:\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\bin\Debug\SpleeterGui.exe
+E:\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\bin\Debug\SpleeterGui.pdb
+E:\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.csproj.AssemblyReference.cache
+E:\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.csproj.SuggestedBindingRedirects.cache
+E:\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.Form1.resources
+E:\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.Properties.Resources.resources
+E:\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.csproj.GenerateResource.cache
+E:\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.csproj.CoreCompileInputs.cache
+E:\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.exe
+E:\Ajithkumar - Mini Project\Music Separator - Project (Mini)\1 - working project\SpleeterGui\obj\Debug\SpleeterGui.pdb
