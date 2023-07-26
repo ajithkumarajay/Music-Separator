@@ -12,4 +12,4 @@ This project is a simple C# desktop front end for Spleeter.
 
 The project contains the C# source code for the Graphical User Interface. It also contains Python3.7 and the Spleeter project.  
 
-Feel free to inspect the source code and build for yourself. you can also install your own python/tensorflow/ffmpeg/spleeter.
+
